@@ -1,0 +1,46 @@
+2019-02-28 20:53:53,329-BrowserEngine-INFO-you had select Chrome browser
+2019-02-28 20:53:53,329-BrowserEngine-INFO-The test server url is http://127.0.0.1/forum.php
+2019-02-28 20:53:55,542-BrowserEngine-INFO-Staring Chrome browser
+2019-02-28 20:53:56,119-BrowserEngine-INFO-Open url http://127.0.0.1/forum.php
+2019-02-28 20:53:57,256-BrowserEngine-INFO-Maxmize the current window
+2019-02-28 20:53:57,259-BrowserEngine-INFO-Set implicitly wait 10 seconds
+2019-02-28 20:53:57,270-BasePage-INFO-successful
+2019-02-28 20:53:57,361-BasePage-INFO-找到页面元素('name', 'username')
+2019-02-28 20:53:57,484-BasePage-INFO-输入内容admin
+2019-02-28 20:53:57,516-BasePage-INFO-找到页面元素('name', 'password')
+2019-02-28 20:53:57,592-BasePage-INFO-输入内容admin
+2019-02-28 20:53:57,625-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 20:53:57,686-BasePage-INFO-successful
+2019-02-28 20:54:02,720-BasePage-INFO-找到页面元素('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')
+2019-02-28 20:54:13,292-BasePage-INFO-找到页面元素('xpath', "(//tr/td[@class='o']/input)[1]")
+2019-02-28 20:54:13,396-BasePage-INFO-找到页面元素('xpath', "//*[@id='mdly']/p[1]/strong[1]/a")
+2019-02-28 20:54:13,625-BasePage-INFO-找到页面元素('css selector', '#modsubmit > span')
+2019-02-28 20:54:14,136-BasePage-ERROR-Failed list index out of range
+2019-02-28 20:54:14,189-BasePage-INFO-找到页面元素('xpath', "//*[@id='um']/p[1]/a[6]")
+2019-02-28 20:54:14,333-BasePage-INFO-successful
+2019-02-28 20:54:15,436-BasePage-INFO-找到页面元素('css selector', '#header_forum')
+2019-02-28 20:54:15,509-BasePage-INFO-successful
+2019-02-28 20:54:15,737-BasePage-INFO-找到页面元素('xpath', "//*[@id='cpform']/table/tbody[3]/tr/td[2]/div/a")
+2019-02-28 20:54:25,947-BasePage-INFO-找到页面元素('name', 'editsubmit')
+2019-02-28 20:54:26,240-BasePage-INFO-successful
+2019-02-28 20:54:26,247-BasePage-INFO-successful
+2019-02-28 20:54:26,290-BasePage-INFO-找到页面元素('css selector', '#um > p:nth-child(2) > a:nth-child(18)')
+2019-02-28 20:54:29,487-BasePage-INFO-successful
+2019-02-28 20:54:29,575-BasePage-INFO-找到页面元素('name', 'username')
+2019-02-28 20:54:29,691-BasePage-INFO-输入内容zhangyuqi
+2019-02-28 20:54:29,722-BasePage-INFO-找到页面元素('name', 'password')
+2019-02-28 20:54:29,808-BasePage-INFO-输入内容zhangyuqi
+2019-02-28 20:54:29,840-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-02-28 20:54:29,895-BasePage-INFO-successful
+2019-02-28 20:54:39,960-BasePage-INFO-找到页面元素('xpath', "//*[@id='newspecial']/img")
+2019-02-28 20:54:40,503-BasePage-INFO-找到页面元素('name', 'subject')
+2019-02-28 20:54:40,601-BasePage-INFO-输入内容smile!
+2019-02-28 20:54:40,617-BasePage-INFO-successful
+2019-02-28 20:54:40,648-BasePage-INFO-找到页面元素('xpath', "//body[@spellcheck='false']")
+2019-02-28 20:54:40,786-BasePage-INFO-输入内容hahahaahahaha!
+2019-02-28 20:54:40,791-BasePage-INFO-successful
+2019-02-28 20:54:40,823-BasePage-INFO-找到页面元素('name', 'topicsubmit')
+2019-02-28 20:54:42,172-BasePage-INFO-找到页面元素('css selector', '.fastre')
+2019-02-28 20:54:42,404-BasePage-INFO-找到页面元素('css selector', '#postmessage')
+2019-02-28 20:54:42,482-BasePage-INFO-输入内容good!
+2019-02-28 20:54:42,527-BasePage-INFO-找到页面元素('xpath', '//button/span')
