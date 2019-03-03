@@ -1,9 +1,9 @@
 from framework.base import BasePage
 from selenium.webdriver.common.by import By
 import time
+import unittest
 
 class Discuz04(BasePage):
-
     moreng_button_search_loc=(By.XPATH,"//*[@id='category_1']/table/tbody/tr[1]/td[2]/h2/a")
     fatie_button_search_loc=(By.XPATH,"//*[@id='newspecial']/img")
     fatie_content_input_search_loc=(By.NAME,"subject")
@@ -43,10 +43,8 @@ class Discuz04(BasePage):
 
 
     def toupiao(self,content1,content2,content3,content4):
-        # self.current_window()
         time.sleep(5)
         self.move_to(*self.fatie_button_search_loc)
-        # time.sleep(3)
         self.click(*self.toupiao_button_search_loc)
         time.sleep(3)
         self.sendkeys(content1,*self.name_input_search_loc)

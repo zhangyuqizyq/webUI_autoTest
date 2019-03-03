@@ -1,0 +1,17 @@
+2019-03-03 17:23:01,625-BrowserEngine-INFO-you had select Chrome browser
+2019-03-03 17:23:01,625-BrowserEngine-INFO-The test server url is http://127.0.0.1/forum.php
+2019-03-03 17:23:03,898-BrowserEngine-INFO-Staring Chrome browser
+2019-03-03 17:23:04,415-BrowserEngine-INFO-Open url http://127.0.0.1/forum.php
+2019-03-03 17:23:05,557-BrowserEngine-INFO-Maxmize the current window
+2019-03-03 17:23:05,558-BrowserEngine-INFO-Set implicitly wait 10 seconds
+2019-03-03 17:23:05,563-BasePage-INFO-successful
+2019-03-03 17:23:05,603-BasePage-INFO-找到页面元素('name', 'username')
+2019-03-03 17:23:05,733-BasePage-INFO-输入内容admin
+2019-03-03 17:23:05,767-BasePage-INFO-找到页面元素('name', 'password')
+2019-03-03 17:23:05,850-BasePage-INFO-输入内容admin
+2019-03-03 17:23:05,886-BasePage-INFO-找到页面元素('tag name', 'em')
+2019-03-03 17:23:06,815-BasePage-INFO-找到页面元素('css selector', '#um > p:nth-child(2) > strong > a')
+2019-03-03 17:23:06,854-BasePage-INFO-successful
+2019-03-03 17:23:06,859-BasePage-INFO-successful
+2019-03-03 17:23:11,890-BasePage-INFO-找到页面元素('css selector', '#category_1 > table > tbody > tr:nth-child(1) > td:nth-child(2) > h2 > a')
+2019-03-03 17:23:43,957-BasePage-ERROR-<pageobjects.discuz02.Discuz02 object at 0x000001DCBB7B41D0>页面中未能找到('xpath', "(//tr/td[@class='o']/input)[1]")元素
